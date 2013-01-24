@@ -3,7 +3,7 @@ import NeedTest
 
 class LearnUnitTest(unittest.TestCase):
 	"""docstring for LearnUnitTest"""
-	val = [(1,2), (2,3)]
+	val = [(1,2), (2,5)]
 
 	def testFunc(self):
 		for a, b in self.val:
